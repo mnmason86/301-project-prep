@@ -1,5 +1,11 @@
 # 301-project-prep
 
+Team Members:
+Joshua Frazer
+Anthony Johnson
+Mandy Mason
+Mandela Steele-Dadzie
+
 ## Cooperation Plan
 
 **What are the key strengths of each person on the team?**
