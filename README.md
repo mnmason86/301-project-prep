@@ -1,9 +1,9 @@
 # 301-project-prep
 
-Team Members:
-Joshua Frazer
-Anthony Johnson
-Mandy Mason
+Team Members:   
+Joshua Frazer   
+Anthony Johnson   
+Mandy Mason   
 Mandela Steele-Dadzie
 
 ## Cooperation Plan
