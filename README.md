@@ -1,6 +1,6 @@
 # 301-project-prep
 
-Team Members:   
+**Team Members:**      
 Joshua Frazer   
 Anthony Johnson   
 Mandy Mason   
